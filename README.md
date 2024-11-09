@@ -7,7 +7,7 @@ Software developer (craftman)
 
 I have learn to code for about 5 years now, I started learning Laravel for development when I was in school and ended up as a backend dev got familiar with technologies like php, relational database with mysql which I am comfortable with and got some hand full of experience with html, css and javascript, lately I am exploring the field of frontend development with React typescript.
 
-* 🌍  I'm based in Yaoundé, Cameroon 🇨🇲
+* 🌍  I'm based in Yaoundé, Cameroon :cameroon:
 * 🖥️  See my portfolio at [Courage](http://mahwou.github.io/courage)
 * ✉️  You can contact me at [ndimbucourage@gmail.com](mailto:ndimbucourage@gmail.com)
 * 🧠  I'm learning React
