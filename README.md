@@ -2,7 +2,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Courage Mah
 ===================================================================================================================================
 
-Software developer
+Software developer (craftman)
 ------------------
 
 I have learn to code for about 5 years now, I started learning Laravel for development when I was in school and ended up as a backend dev got familiar with technologies like php, relational database with mysql which I am comfortable with and got some hand full of experience with html, css and javascript, lately I am exploring the field of frontend development with React typescript.
