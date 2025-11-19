@@ -10,7 +10,7 @@ I have learn to code for about 5 years now, I started learning Laravel for devel
 * 🌍  I'm based in Yaoundé, Cameroon :cameroon:
 * 🖥️  See my portfolio at [Courage](http://mahwou.github.io/courage)
 * ✉️  You can contact me at [ndimbucourage@gmail.com](mailto:ndimbucourage@gmail.com)
-* 🧠  I'm learning React
+* 🧠  I'm learning React and NestJS
 * 🤝  I'm open to collaborating on any project to improve on my skills
 
 ### Skills
